@@ -39,7 +39,7 @@
   NCT Expiry
   Road Tax
   URL (only in the filtered notebook)
-  Tips
+  # Tips
   The number in the loop (for i in range(...)) in each notebook defines how many pages of listings will be scraped. For instance, if set to 10, ten pages will be scraped. Adjust this   based on how many pages of listings you want to cover.
   # Disclaimer
   Ensure you're in compliance with the "donedeal.ie" terms of service when scraping. If the website's structure changes, the scraper might need updates.
