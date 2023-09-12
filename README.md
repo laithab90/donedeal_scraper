@@ -1,13 +1,14 @@
 # donedeal_scraper
-This repo contains two jupyter notbooks that are made to scrape donedeal.ie website for car ilstings and store them in a CSV file
-Donedeal Car Listings Scraper
-Overview
-This repository contains two Jupyter notebooks designed to scrape car listings from "donedeal.ie":
+  This repo contains two jupyter notbooks that are made to scrape donedeal.ie website for car ilstings and store them in a CSV file
 
-donedeal3_best.ipynb: Extracts general car listings.
-donedeal3_filtered.ipynb: Targets listings based on filtered queries, specifically those within a certain price range.
-Prerequisites
-Ensure you have the necessary libraries installed:
+  # Donedeal Car Listings Scraper
+  # Overview
+  This repository contains two Jupyter notebooks designed to scrape car listings from "donedeal.ie":
+
+  donedeal3_best.ipynb: Extracts general car listings.
+  donedeal3_filtered.ipynb: Targets listings based on filtered queries, specifically those within a certain price range.
+  Prerequisites
+  Ensure you have the necessary libraries installed:
 
 bash
 Copy code
